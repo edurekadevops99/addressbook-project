@@ -82,7 +82,9 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 
 
 
-podman issuesroot@serverA ~]# cat /etc/subuid 
+podman issuesr
+
+oot@serverA ~]# cat /etc/subuid 
 jenkins:100000:65536
 [root@serverA ~]# cat /etc/subgid 
 jenkins:100000:65536
